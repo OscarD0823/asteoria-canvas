@@ -1,7 +1,9 @@
 {
   "product": "publisher",
-  "name": "Prisma Publisher",
-  "website": "https://oscard0823.github.io/prisma-publisher/",
-  "sourceRepository": "OscarD0823/prisma-pdf",
+  "name": "Asteoria Canvas",
+  "channel": "beta",
+  "website": "https://oscard0823.github.io/asteoria-canvas/",
+  "sourceRepository": "OscarD0823/asteoria-canvas",
+  "sharedRepository": "OscarD0823/asteoria",
   "sourceRef": "main"
 }
