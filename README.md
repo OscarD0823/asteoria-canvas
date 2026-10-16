@@ -1,7 +1,7 @@
-# Asteoria Canvas · BETA
+# Auralis Canvas · BETA
 
-Diseño editorial y publicaciones. Parte del entorno común [ASTEORIA](https://github.com/OscarD0823/asteoria).
+Diseño editorial y publicaciones. Parte del entorno común [Auralis](https://github.com/OscarD0823/asteoria).
 
-[Usar aplicación](https://oscard0823.github.io/asteoria-canvas/) · [Descargas](https://github.com/OscarD0823/asteoria-canvas/releases)
+[Usar aplicación](https://oscard0823.github.io/auralis-canvas/) · [Descargas](https://github.com/OscarD0823/auralis-canvas/releases)
 
 Código propio de esta aplicación en src/. Núcleo, dependencias y recursos compartidos en asteoria; una misma implementación genera la aplicación independiente y la global. Datos locales, sin subir documentos. Software AGPL-3.0-or-later, con avisos y licencias de terceros. Autor: OscarD0823.

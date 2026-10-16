@@ -1,9 +1,9 @@
 {
   "product": "publisher",
-  "name": "Asteoria Canvas",
+  "name": "Auralis Canvas",
   "channel": "beta",
-  "website": "https://oscard0823.github.io/asteoria-canvas/",
-  "sourceRepository": "OscarD0823/asteoria-canvas",
+  "website": "https://oscard0823.github.io/auralis-canvas/",
+  "sourceRepository": "OscarD0823/auralis-canvas",
   "sharedRepository": "OscarD0823/asteoria",
   "sourceRef": "main"
 }
